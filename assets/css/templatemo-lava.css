@@ -654,8 +654,9 @@ welcome
 --------------------------------------------- 
 */
 .welcome-area {
-  width: 120%;
-  height: 110vh;
+  margin-top: 30px;	
+  width: 90%;
+  height: 90vh;
   min-height: 750px;
   background-image: url('https://firebasestorage.googleapis.com/v0/b/movieshub-39a3e.appspot.com/o/banner-bg.png?alt=media&token=b860a9bc-e655-4801-bee3-8d44f0e3a940');
   background-repeat: no-repeat;
