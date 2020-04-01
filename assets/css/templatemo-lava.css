@@ -657,7 +657,7 @@ welcome
   width: 100%;
   height: 100vh;
   min-height: 793px;
-  background-image: url(../images/banner-bg.png);
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/movieshub-39a3e.appspot.com/o/banner-bg.png?alt=media&token=b860a9bc-e655-4801-bee3-8d44f0e3a940');
   background-repeat: no-repeat;
   background-position: right top;
 }
